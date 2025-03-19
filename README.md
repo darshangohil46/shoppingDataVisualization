@@ -23,3 +23,5 @@ This project presents an interactive **Power BI dashboard** for visualizing shop
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/shopping-data-visualization.git
+
+![Dashboard Preview](https://github.com/darshangohil46/shoppingDataVisualization/blob/main/Dashboard.png)
